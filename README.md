@@ -16,7 +16,7 @@ To develop a simple webserver to serve html programming pages.
 
 ## PROGRAM:
 
-### SERVER SIDE
+### CLIENT SIDE
 python
 ```
 import socket
@@ -28,7 +28,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     data = s.recv(1024)
 print(f"Received {data!r}")
 ```
-### CLIENT SIDE 
+### SERVER SIDE 
 python
 ```
 import socket
