@@ -64,7 +64,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 ### SERVER SIDE 
 
-<img width="460" alt="image" src="https://github.com/Monisha-11/Echoserver/assets/93427240/8b032737-da85-4378-9440-f20c7636cc9d">
+![image](https://github.com/Lakshmipriya-P-AI/Echoserver/assets/93427923/b210745e-a9e3-4564-ae77-c067b8eede11)
 
 ### CLIENT SIDE 
 <img width="865" alt="image" src="https://github.com/Monisha-11/Echoserver/assets/93427240/55175569-07ae-40ce-b338-44ed99cb8da3">
